@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Robiatti
 - 👀 I’m interested in Cyber Security and Ethical Hacking 
-- 🌱 I’m currently learning Cyber Security, Ethical Hacking, Python, Hack the Box
+- 🌱 I’m currently studying Cyber Security, Ethical Hacking, Python, Hack the Box
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
